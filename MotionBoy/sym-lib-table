@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MotionBoy")(type "KiCad")(uri "${KIPRJMOD}/MotionBoy.kicad_sym")(options "")(descr ""))
+)
